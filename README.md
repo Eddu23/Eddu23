@@ -3,7 +3,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/edduardo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Osmar Eduardo"/></a>
 <a href = "mailto:osmar.edd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@osmar.edd"  /></a>
-<a href = "https://eddu23.github.io/Portafolio" target="blank"><img align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Portafolio"  /></a>
   
   </p>
 <br>
