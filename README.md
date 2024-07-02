@@ -11,13 +11,15 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 LICENCIADO EN ANIMACIÓN Y ARTES DIGITALES Y ESTUDIANTE EN INGENIERIA DE DESARROLLO DE SOFTWARE
+🎓 LICENCIADO EN ANIMACIÓN Y ARTES DIGITALES. ACTUAL ESTUDIANTE INGENIERIA EN DESARROLLO DE SOFTWARE
 
 💻 Aprendíz en el desarrollo de paginas web
 
 📝 roles en el ámbito: desarrollador web, freelancer
 
 📫 Contacto: **osmar.edd@gmail.com**
+
+📙 Portfolio: **https://eddu23.github.io/Portafolio**
 <!--Intro end-->
   </p>
 <br>
